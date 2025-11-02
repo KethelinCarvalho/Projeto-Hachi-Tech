@@ -1,0 +1,50 @@
+@import url('reset.css');
+@import url('fonts.css');
+@import url('header.css');
+:root {
+    /* CORES */
+
+    /* Paleta de Azul */
+    --cor-azul-100: #7EA4D7;
+    --cor-azul-200: #0085DC;
+    --cor-azul-300: #2266C1;
+    --cor-azul-400: #0D284C;
+    
+    /* Paleta de Ciano */
+    --cor-ciano-100: #2DEBFC;
+    --cor-ciano-200: #187D86;
+    --cor-ciano-300: #0E474C;
+
+    /* Paleta de Amarelo */
+    --cor-amarelo-400: #F8EF00;
+
+    /* Paleta de Branco */
+    --cor-branco-100: #FAFAFA;
+
+    /* Paleta de Cinza */
+    --cor-cinza-100: #E9EAEC;
+    --cor-cinza-200: #D3D5D9;
+    --cor-cinza-300: #93979E;
+    --cor-cinza-400: #20242C;
+
+    /* Paleta de Preto */
+    --cor-preto-100: #16181D;
+    --cor-preto-200: #14161A;
+    --cor-preto-300: #101216;
+    --cor-preto-400: #0B0C0F;
+
+    /* FONTES */
+
+    /* Fonte Rubik Glitch */
+    --fonte-rubik-glitch: "Rubik Glitch", system-ui;
+
+    /* Fonte Inter */
+    --fonte-inter: "Inter", sans-serif;
+
+    /* Fonte Tomorrow */
+    --fonte-tomorrow: "Tomorrow", sans-serif;
+
+    /* Fonte Chakra Petch */
+    --fonte-chakra-petch: "Chakra Petch", sans-serif;
+
+}
